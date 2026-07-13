@@ -6,6 +6,7 @@
 
 Build • Automate • Organize • Achieve More with Generative AI
 
+![THUMBNAIL]()
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
@@ -150,34 +151,7 @@ Generate:
 - Improved Context Management
 
 ---
-
-#  System Architecture
-
-```
-                User
-                  │
-                  ▼
-          Streamlit Interface
-                  │
-                  ▼
-        Business Logic Layer
-                  │
-                  ▼
-        Prompt Engineering Layer
-                  │
-                  ▼
-            LLM API Client
-                  │
-                  ▼
-      OpenAI GPT / Google Gemini
-                  │
-                  ▼
-          AI Generated Response
-                  │
-                  ▼
-          Streamlit Interface
-```
-
+![ARCHITECTURE](https://github.com/Swathi-hub481/PERSONAL_AI_PRODUCTIVITY_CHATBOT/blob/main/A3.png)
 ---
 
 #  Technology Stack
