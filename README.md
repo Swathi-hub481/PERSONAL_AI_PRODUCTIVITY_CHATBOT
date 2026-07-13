@@ -6,7 +6,7 @@
 
 Build • Automate • Organize • Achieve More with Generative AI
 
-![THUMBNAIL]()
+![thumbnail](https://github.com/Swathi-hub481/PERSONAL_AI_PRODUCTIVITY_CHATBOT/blob/main/A5.png)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
